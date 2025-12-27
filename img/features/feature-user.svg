@@ -1,0 +1,21 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" rx="28" fill="url(#bg)"/>
+  <rect x="70" y="80" width="820" height="380" rx="22" fill="white" opacity="0.92"/>
+  <rect x="110" y="130" width="280" height="280" rx="20" fill="#e2e8f0"/>
+  <circle cx="250" cy="230" r="70" fill="#94a3b8"/>
+  <rect x="170" y="320" width="160" height="60" rx="30" fill="#94a3b8"/>
+  <rect x="440" y="150" width="370" height="34" rx="12" fill="#0ea5e9"/>
+  <rect x="440" y="210" width="330" height="22" rx="10" fill="#cbd5f5"/>
+  <rect x="440" y="252" width="300" height="22" rx="10" fill="#cbd5f5"/>
+  <rect x="440" y="294" width="250" height="22" rx="10" fill="#cbd5f5"/>
+  <rect x="440" y="356" width="210" height="54" rx="18" fill="#22c55e"/>
+  <text x="545" y="388" font-family="Arial, sans-serif" font-size="22" fill="white" text-anchor="middle">Mua ngay</text>
+  <text x="480" y="115" font-family="Arial, sans-serif" font-size="28" fill="#0f172a">Trải nghiệm mua sắm</text>
+  <text x="480" y="420" font-family="Arial, sans-serif" font-size="18" fill="#0f172a">Tìm kiếm, xem chi tiết, thêm vào giỏ hàng</text>
+</svg>
